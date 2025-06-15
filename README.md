@@ -12,7 +12,7 @@ To bring fair and transparent lottery experiences to the blockchain, using verif
 
 ## 🔗 Contract Address
 ST2S0E3KV3ED7HZQFD4B1EBHWSB6FC5ZK7PYWABQE.lottery
-![alt text](image.png)
+
 
 
 ![image](https://github.com/user-attachments/assets/ed13e7e2-b4d7-475e-917d-a654c34e92d2)
